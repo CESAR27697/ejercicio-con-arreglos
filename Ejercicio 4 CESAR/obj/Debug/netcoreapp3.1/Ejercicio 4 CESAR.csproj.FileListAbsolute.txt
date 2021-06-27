@@ -1,0 +1,4 @@
+C:\Users\Jamilette Hernández\source\repos\POOU2\Ejercicio 4 CESAR\obj\Debug\netcoreapp3.1\Ejercicio 4 CESAR.csprojAssemblyReference.cache
+C:\Users\Jamilette Hernández\source\repos\POOU2\Ejercicio 4 CESAR\obj\Debug\netcoreapp3.1\Ejercicio 4 CESAR.AssemblyInfoInputs.cache
+C:\Users\Jamilette Hernández\source\repos\POOU2\Ejercicio 4 CESAR\obj\Debug\netcoreapp3.1\Ejercicio 4 CESAR.AssemblyInfo.cs
+C:\Users\Jamilette Hernández\source\repos\POOU2\Ejercicio 4 CESAR\obj\Debug\netcoreapp3.1\Ejercicio 4 CESAR.csproj.CoreCompileInputs.cache
